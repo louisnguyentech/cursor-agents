@@ -1,4 +1,4 @@
-MODULE_NAME=User
+MODULE_NAME=Account
 
 FIELDS:
 - email: string, required, unique
